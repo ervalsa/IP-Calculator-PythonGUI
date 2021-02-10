@@ -220,3 +220,4 @@ btn_hitung.clicked.connect(output)
 main_window.show()
 app.exec_()
 
+                                  
