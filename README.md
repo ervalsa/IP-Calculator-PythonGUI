@@ -15,7 +15,7 @@ IP Calculator With PyQt5
               <img src="https://avatars.githubusercontent.com/u/21320647?v=4" width="120px;" alt="">
               <br>
                 <sub>
-                  <b>Ervalsa Dwi Nanda</b>
+                  <b>sumitmcc</b>
                 </sub>
               </br>
             </td>
